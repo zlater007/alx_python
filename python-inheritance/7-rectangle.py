@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-"""Defines a class Rectangle that inherits from BaseGeometry."""
+# 7-rectangle.py
+# zlater007
+"""Import '5-base_geometry' File"""
 BaseGeometry = __import__('5-base_geometry').BaseGeometry
-
 
 class Rectangle(BaseGeometry):
     """Represent a rectangle using BaseGeometry."""
